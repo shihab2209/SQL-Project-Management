@@ -1,3 +1,6 @@
+![sql](https://github.com/shihab2209/SQL-Project-Management/assets/137440226/6204c01e-1566-4f4e-947e-aae1071fc21f)
+
+
 # SQL Project Management
 
 ## Description
